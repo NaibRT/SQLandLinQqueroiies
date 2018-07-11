@@ -1,0 +1,12 @@
+C:\Users\P106\source\repos\SqlandLinQSorgulari\SqlandLinQSorgulari\bin\Debug\Database1.mdf
+C:\Users\P106\source\repos\SqlandLinQSorgulari\SqlandLinQSorgulari\bin\Debug\Database1_log.ldf
+C:\Users\P106\source\repos\SqlandLinQSorgulari\SqlandLinQSorgulari\bin\Debug\SqlandLinQSorgulari.exe.config
+C:\Users\P106\source\repos\SqlandLinQSorgulari\SqlandLinQSorgulari\bin\Debug\SqlandLinQSorgulari.exe
+C:\Users\P106\source\repos\SqlandLinQSorgulari\SqlandLinQSorgulari\bin\Debug\SqlandLinQSorgulari.pdb
+C:\Users\P106\source\repos\SqlandLinQSorgulari\SqlandLinQSorgulari\obj\Debug\SqlandLinQSorgulari.csprojResolveAssemblyReference.cache
+C:\Users\P106\source\repos\SqlandLinQSorgulari\SqlandLinQSorgulari\obj\Debug\SqlandLinQSorgulari.Form1.resources
+C:\Users\P106\source\repos\SqlandLinQSorgulari\SqlandLinQSorgulari\obj\Debug\SqlandLinQSorgulari.Properties.Resources.resources
+C:\Users\P106\source\repos\SqlandLinQSorgulari\SqlandLinQSorgulari\obj\Debug\SqlandLinQSorgulari.csproj.GenerateResource.Cache
+C:\Users\P106\source\repos\SqlandLinQSorgulari\SqlandLinQSorgulari\obj\Debug\SqlandLinQSorgulari.csproj.CoreCompileInputs.cache
+C:\Users\P106\source\repos\SqlandLinQSorgulari\SqlandLinQSorgulari\obj\Debug\SqlandLinQSorgulari.exe
+C:\Users\P106\source\repos\SqlandLinQSorgulari\SqlandLinQSorgulari\obj\Debug\SqlandLinQSorgulari.pdb
